@@ -9,7 +9,7 @@ const Footer = () => {
 
       <div className="flex gap-3">
         <div className="social-icon">
-          <a href="http://github.com/saxenasiddhant45">
+          <a href="http://github.com/siddhantsaxena45">
           <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" /></a>
         </div>
         <div className="social-icon">
