@@ -164,6 +164,42 @@ export const myProjects = [
         path: '/assets/mongo.svg',
       },
     ],
+  }, {
+    title: 'PriceWise - Amazon Price Tracker',
+    desc: 'PriceWise is a price tracker app that monitors Amazon products and notifies users of price drops via email.',
+    subdesc:
+      'Built using Next.js, MongoDB, Bright Data Proxy, Cheerio for scraping, Nodemailer, and CRON jobs for scheduling. Fully deployed and production ready.',
+    href: 'https://pricewise-siddhant.vercel.app',
+    texture: '/textures/project/project4.mp4',
+    logo: '/assets/project-logo2.png',
+    logoStyle: {
+      backgroundColor: '#1A1B1F',
+      border: '0.2px solid #2A2B30',
+      boxShadow: '0px 0px 60px 0px #4E4E4E4D',
+    },
+    spotlight: '/assets/spotlight4.png',
+    tags: [
+      {
+        id: 1,
+        name: 'Next.js',
+        path: '/assets/next.svg',
+      },
+      {
+        id: 2,
+        name: 'MongoDB',
+        path: '/assets/mongo.svg',
+      },
+      {
+        id: 3,
+        name: 'Typescript',
+        path: '/assets/typescript.svg',
+      },
+      {
+        id: 4,
+        name: 'TailwindCSS',
+        path: '/assets/tailwindcss.png',
+      },
+    ],
   },
  
 ];
