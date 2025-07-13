@@ -169,7 +169,7 @@ export const myProjects = [
     desc: 'PriceWise is a price tracker app that monitors Amazon products and notifies users of price drops via email.',
     subdesc:
       'Built using Next.js, MongoDB, Bright Data Proxy, Cheerio for scraping, Nodemailer, and CRON jobs for scheduling. Fully deployed and production ready.',
-    href: 'https://pricewise-siddhant.vercel.app',
+    href: 'https://price-wise-rust.vercel.app',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
